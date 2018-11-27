@@ -1,0 +1,21 @@
+{
+    "title": "默认",
+    "list": [
+        {
+            "title": "后台管理模板(ant + react)",
+            "repo": "https://github.com/shuai-cli/admin.git"
+        },
+        {
+            "title": "APP开发模板(apicloud + vue)",
+            "repo": "https://github.com/shuai-cli/app.git"
+        },
+        {
+            "title": "小程序模板(mpvue)",
+            "repo": "https://github.com/shuai-cli/mini-app.git"
+        },
+        {
+            "title": "快应用模板",
+            "repo": "https://github.com/shuai-cli/quick-app.git"
+        }
+    ]
+}
